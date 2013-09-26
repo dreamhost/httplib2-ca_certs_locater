@@ -1,11 +1,16 @@
-===========================
- httplib2.ca_certs_locater
-===========================
+=================================
+ httplib2.ca_certs_locater 0.1.0
+=================================
 
 This package provides a plug-in to httplib2 to tell it to use the
 certificate authority file from the base OS instead of the one in the
 httplib2 package. The file from httplib2 is used as a fallback, if the
 expected OS-specific file is not found.
+
+What's New In This Release?
+===========================
+
+This is the first public release.
 
 Installation
 ============
