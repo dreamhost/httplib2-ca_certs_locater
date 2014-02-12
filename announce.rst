@@ -1,5 +1,5 @@
 =================================
- httplib2.ca_certs_locater 0.1.0
+ httplib2.ca_certs_locater 0.2.0
 =================================
 
 .. tags:: python release
@@ -12,7 +12,7 @@ expected OS-specific file is not found.
 What's New In This Release?
 ===========================
 
-This is the first public release.
+This release fixes installation problems for 0.1.0 on Linux.
 
 Installation
 ============
